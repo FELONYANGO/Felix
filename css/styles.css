@@ -11593,7 +11593,7 @@ html {
   height: 90vw;
   max-height: 33rem;
   position: absolute;
-  bottom: 2rem;
+  padding: 3rem;
   left: 55%;
   border-radius: 5vw;
   transform: translateX(-50%);
